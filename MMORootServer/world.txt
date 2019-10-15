@@ -1,0 +1,15 @@
+World Name: demo
+Total world size X: 256
+Total world size Y: 256
+Total world size Z: 256
+===== STARTING ISLAND INFO =====
+Island num: 0
+Island name: firstIsland
+Island size X: 128
+Island size Y: 128
+Island size Z: 128
+Island num: 1
+Island name: island2
+Island size X: 128
+Island size Y: 128
+Island size Z: 128

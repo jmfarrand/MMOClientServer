@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MMOServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MMOServer_jar</output-path>
+    <root id="archive" name="MMOServer.jar">
+      <element id="module-output" name="MMOServer" />
+    </root>
+  </artifact>
+</component>

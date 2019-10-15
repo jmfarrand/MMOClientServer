@@ -1,0 +1,31 @@
+{
+  "name": "Fox",
+  "description": "A crafty little animal with an attitude for destruction!!",
+  "type": "Light",
+  "typeEffectivness": {
+    "double": "Fire",
+    "normal": "Water",
+    "weak": "Dark",
+    "noEffect": "Earth"
+  },
+  "baseStats": {
+    "attack": 2,
+    "defence": 2,
+    "special": 5,
+    "healthPoints": 5,
+    "powerPoints": 2
+  },
+  "levelUpMultipliers": {
+    "attack": 1.4,
+    "defence": 1.3,
+    "special": 2.5,
+    "heathPoints": 1.7,
+    "powerPoints": 2.2
+  },
+  "ability": {
+    "name": "Keen eye",
+    "effect": "increaseSpecial",
+    "effectValue": 20,
+    "effectDescription": "When the Fox is low on health, its special stat will increase by 20%!"
+  }
+}

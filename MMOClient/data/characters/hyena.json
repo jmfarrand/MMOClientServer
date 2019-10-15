@@ -1,0 +1,31 @@
+{
+  "name": "Hyena",
+  "description": "",
+  "type": "Water",
+  "typeEffectivness": {
+    "double": "Earth",
+    "normal": "Fire",
+    "weak": "Light",
+    "noEffect": "Dark"
+  },
+  "baseStats": {
+    "attack": 4,
+    "defence": 5,
+    "special": 3,
+    "healthPoints": 4,
+    "powerPoints": 6
+  },
+  "levelUpMultipliers": {
+    "attack": 1.5,
+    "defence": 2.6,
+    "special": 1.1,
+    "heathPoints": 1.4,
+    "powerPoints": 1.5
+  },
+  "ability": {
+    "name": "Water viel",
+    "effect": "increasePP",
+    "effectValue": 25,
+    "effectDescription": "Hyena conjures up a viel of water around itself to increase PP by 25%!!!"
+  }
+}

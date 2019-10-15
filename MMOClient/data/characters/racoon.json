@@ -1,0 +1,31 @@
+{
+  "name": "Racoon",
+  "description": "",
+  "type": "Earth",
+  "typeEffectivness": {
+    "double": "Dark",
+    "normal": "Fire",
+    "weak": "Water",
+    "noEffect": "Light"
+  },
+  "baseStats": {
+    "attack": 1,
+    "defence": 1,
+    "special": 5,
+    "healthPoints": 10,
+    "powerPoints": 2
+  },
+  "levelUpMultipliers": {
+    "attack": 1.6,
+    "defence": 1.8,
+    "special": 1.4,
+    "heathPoints": 2.4,
+    "powerPoints": 1.4
+  },
+  "ability": {
+    "name": "Sow seeds",
+    "effect": "increaseHP",
+    "effectValue": 30,
+    "effectDescription": "Racoon sows some seeds that increases its HP by 30%!!"
+  }
+}

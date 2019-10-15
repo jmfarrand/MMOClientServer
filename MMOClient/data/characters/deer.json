@@ -1,0 +1,31 @@
+{
+  "name": "Deer",
+  "description": "",
+  "type": "Fire",
+  "typeEffectivness": {
+    "double": "Dark",
+    "normal": "Earth",
+    "weak": "Water",
+    "noEffect": "Light"
+  },
+  "baseStats": {
+    "attack": 7,
+    "defence": 5,
+    "special": 4,
+    "healthPoints": 8,
+    "powerPoints": 2
+  },
+  "levelUpMultipliers": {
+    "attack": 1.6,
+    "defence": 1.5,
+    "special": 2.5,
+    "heathPoints": 1.4,
+    "powerPoints": 2.8
+  },
+  "ability": {
+    "name": "Fire shield",
+    "effect": "increaseDefence",
+    "effectValue": 15,
+    "effectDescription": "Deer protects itself with a shield of fire to increase defence by 15%!!!"
+  }
+}

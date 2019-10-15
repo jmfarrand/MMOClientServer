@@ -1,0 +1,10 @@
+World Name: testworld
+Total world size X: 128
+Total world size Y: 128
+Total world size Z: 128
+===== STARTING ISLAND INFO =====
+Island num: 0
+Island name: firstIsland
+Island size X: 128
+Island size Y: 128
+Island size Z: 128

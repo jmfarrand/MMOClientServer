@@ -1,0 +1,31 @@
+{
+  "name": "Wolf",
+  "description": "",
+  "type": "Dark",
+  "typeEffectivness": {
+    "double": "Water",
+    "normal": "Earth",
+    "weak": "Light",
+    "noEffect": "Fire"
+  },
+  "baseStats": {
+    "attack": 9,
+    "defence": 4,
+    "special": 3,
+    "healthPoints": 4,
+    "powerPoints": 9
+  },
+  "levelUpMultipliers": {
+    "attack": 2.5,
+    "defence": 1.1,
+    "special": 2.1,
+    "heathPoints": 1.7,
+    "powerPoints": 2.4
+  },
+  "ability": {
+    "name": "Dark tornado",
+    "effect": "increaseAttack",
+    "effectValue": 40,
+    "effectDescription": "The wolf becomes enranged and increases its attack by 40%!!!"
+  }
+}
